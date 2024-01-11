@@ -2,7 +2,7 @@
 The Command Recognizer is a machine learning-based system designed to identify and classify spoken commands. This model has been specifically trained to recognize a predefined set of commands, making it suitable for a wide range of applications where spoken instructions need to be interpreted and acted upon.
 
 ## Key Features
-- **Command Recognition:** The system excels at accurately identifying and classifying spoken commands from a predefined list.
+- **Command Recognition:** The system identifies and classifies spoken commands from a predefined list.
 - **Diverse Command Set:** The model has been trained on a comprehensive list of commands, providing flexibility for various applications.
 
 ## Supported Commands
